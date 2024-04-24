@@ -25,7 +25,7 @@ a {
 }
 
 a:hover, a:focus {
-	color: #51db7e;
+	color: #f8a145;
 }
 
 img {
@@ -34,7 +34,8 @@ img {
 }
 
 .current {
-	background-color: #51db7e;
+	background-color: #
+    ;
 }
 
 
@@ -117,7 +118,7 @@ p {
 	}
 
 	#top-nav a:hover .bb-animate {
-		background: #51db7e;
+		background: #f8a145;
 		width: 100%;
 	}
 
@@ -157,7 +158,7 @@ p {
 	}
 
 	#navbar a:hover, #navbar .active {
-		background-color: #51db7e;
+		background-color: #f8a145;
 	}
 
 .menu-links {
@@ -397,4 +398,4 @@ footer {
 	.scoopy {
 		height: 160px;
 	}
-}10:35 2024/4/22
+}
