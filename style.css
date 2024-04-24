@@ -391,7 +391,10 @@ footer {
  	#top-nav {
 		margin-top: 30px;
 	}
-
+footer {
+	margin-bottom: 0;
+	Padding-bottom: 0;
+}
 	.scoopy {
 		height: 160px;
 	}
